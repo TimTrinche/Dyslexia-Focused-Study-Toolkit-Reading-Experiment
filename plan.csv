@@ -1,0 +1,3 @@
+trial_id,condition,text_path,qcm_path,likert_path
+A,plain,materials/text_A_plain.txt,materials/qcm_A.json,materials/likert.json
+B,formatted,materials/text_B_formatted.txt,materials/qcm_B.json,materials/likert.json

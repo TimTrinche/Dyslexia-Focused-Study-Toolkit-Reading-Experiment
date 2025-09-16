@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "text": "De quelle couleur sont les mouettes qui tournent au-dessus des vagues ?",
+      "options": [
+        "Grises",
+        "Blanches",
+        "Noires",
+        "Bleues"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Quel animal court vite sur le sable chaud ?",
+      "options": [
+        "Une tortue",
+        "Un crabe",
+        "Un dauphin",
+        "Un chien"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Où reste immobile l’étoile de mer orange ?",
+      "options": [
+        "Sur un rocher",
+        "Dans un seau",
+        "Sous le sable",
+        "Dans l’herbe"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Quels animaux nagent en famille près du bord ?",
+      "options": [
+        "Des dauphins",
+        "Des poissons",
+        "Des crabes",
+        "Des mouettes"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Qu’apporte le vent depuis la mer ?",
+      "options": [
+        "Du sable",
+        "Des feuilles",
+        "Une odeur salée",
+        "De la pluie"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Quel animal surgit et danse parmi les vagues ?",
+      "options": [
+        "Un phoque",
+        "Un crabe",
+        "Un dauphin",
+        "Une baleine"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pourquoi penses-tu que les empreintes du crabe sont si légères ?"
+    },
+    {
+      "text": "Comment sais-tu que les enfants se sentent heureux sur la plage ?"
+    },
+    {
+      "text": "Pourquoi les drapeaux ondulent doucement au bord de l’eau ?"
+    },
+    {
+      "text": "Comment la description du soleil et de ses ombres te fait-elle imaginer la chaleur de la plage ?"
+    },
+    {
+      "text": "Selon toi, pourquoi la tortue avance-t-elle lentement vers l’eau profonde ?"
+    },
+    {
+      "text": "Que pourraient faire les enfants après avoir vu le dauphin danser parmi les vagues ?"
+    }
+  ]
+}

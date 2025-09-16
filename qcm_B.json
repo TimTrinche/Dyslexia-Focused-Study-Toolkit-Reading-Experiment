@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "text": "Quel jour de la semaine les amis se retrouvent-ils près de la rivière ?",
+      "options": [
+        "Mercredi",
+        "Samedi",
+        "Dimanche",
+        "Lundi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Qu’est-ce que Maxime cherche pour construire le radeau ?",
+      "options": [
+        "Des cordes",
+        "Des feuilles",
+        "Des morceaux de bois solides",
+        "Des pierres"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Avec quoi Zoé attache-t-elle les branches ?",
+      "options": [
+        "Du ruban",
+        "De la corde",
+        "Du fil de fer",
+        "Du scotch"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Avec quoi Inès décore-t-elle le radeau ?",
+      "options": [
+        "Des fleurs",
+        "Des coquillages",
+        "Des feuilles vertes",
+        "Des rubans"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Que fait le radeau une fois sur l’eau ?",
+      "options": [
+        "Il coule",
+        "Il flotte et tourne un peu",
+        "Il reste immobile",
+        "Il se casse"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Comment se termine leur après-midi ?",
+      "options": [
+        "Ils rentrent tristes",
+        "Ils se disputent",
+        "Dans des sourires",
+        "Il pleut"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pourquoi penses-tu que Maxime choisit d’abord les morceaux de bois les plus solides ?"
+    },
+    {
+      "text": "Comment sais-tu que les enfants sont contents de leur radeau quand ils le regardent flotter ?"
+    },
+    {
+      "text": "Pourquoi le radeau tourne-t-il un peu avant de continuer son chemin ?"
+    },
+    {
+      "text": "Quel effet le soleil qui chauffe doucement leurs épaules crée-t-il sur l’ambiance de l’après-midi ?"
+    },
+    {
+      "text": "Pourquoi les amis savent-ils déjà qu’ils reviendront la semaine prochaine ?"
+    },
+    {
+      "text": "Quelles nouvelles aventures pourraient-ils vivre la prochaine fois près de la rivière ?"
+    }
+  ]
+}
